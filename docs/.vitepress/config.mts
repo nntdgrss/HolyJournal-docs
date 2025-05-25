@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "HolyJournal Документация",
   description: "Документация по API для HolyJournal",
-  base: "/repo/",
+  base: "/HolyJournal-docs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
