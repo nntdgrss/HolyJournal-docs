@@ -33,7 +33,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your-username/holyjournal-api-docs.git
+git clone https://github.com/nntdgrss/HolyJournal-docs.git
 ```
 
 2. Установите зависимости:
