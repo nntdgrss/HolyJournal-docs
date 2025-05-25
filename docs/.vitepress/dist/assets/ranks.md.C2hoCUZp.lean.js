@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as i,ae as d}from"./chunks/framework.Cthp9TdA.js";const k=JSON.parse('{"title":"Справочник по рангам","description":"","frontmatter":{},"headers":[],"relativePath":"ranks.md","filePath":"ranks.md"}'),s={name:"ranks.md"};function l(r,a,n,o,h,c){return i(),e("div",null,a[0]||(a[0]=[d("",13)]))}const u=t(s,[["render",l]]);export{k as __pageData,u as default};
