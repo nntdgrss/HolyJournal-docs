@@ -45,6 +45,10 @@ export default defineConfig({
         text: "Примеры API",
         items: [{ text: "Базовые концепции", link: "/api-examples" }],
       },
+      {
+        text: "Обработка ошибок",
+        items: [{ text: "Обработка ошибок", link: "/error-handling" }],
+      },
     ],
 
     socialLinks: [
